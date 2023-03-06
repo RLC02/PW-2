@@ -1,6 +1,6 @@
 <?php
  
- public class Pessoa(){
+class Pessoa{
     private $nome;
     private $endereco;
     private $bairro;
